@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/MechanicsTesting/EasyLevelChangeB.unity
+=======
+- path: Assets/Scenes/Zaima TSH2ndFloor2.unity
+>>>>>>> 6649db4b86de7888e359fec2f89104258f58a1fb
   isLoaded: 1
   isActive: 1
